@@ -1,8 +1,9 @@
-# Dodge-Game-WinAPI   
+# Dodge-Game-WinAPI
    
 2019년 6월에 만든 닷지 게임의 모작입니다.   
    
 1. 클래스(함수) 설명   
+
 class GameGraphic   
 {   
 private:   
@@ -129,6 +130,7 @@ void GameLoop(GameProcess &gameProcess, GameGraphic &gameGraphic, KeyInput &key)
    
    
 2. 스크린샷  
+
 ↓처음 시작했을 때 게임 화면   
 ![1 (1)](./게임 캡처/1 (1).jpg)   
    
