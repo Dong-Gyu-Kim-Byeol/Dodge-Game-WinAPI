@@ -157,3 +157,6 @@ void GameLoop(GameProcess &gameProcess, GameGraphic &gameGraphic, KeyInput &key)
    
 ↓위쪽 + 왼쪽 + 오른쪽을 입력했을 때 다음 화면   
 ![9](./캡처/9.jpg)   
+   
+↓충돌시 화면   
+![10](./캡처/10.jpg)   
