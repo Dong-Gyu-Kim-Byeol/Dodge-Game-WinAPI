@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  CppGame.cpp
+  GameGraphic.cpp
+C:\Users\dvoy2\Downloads\Dodge-Game-WinAPI\CppGame\CppGame\GameGraphic.cpp(117,59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dvoy2\Downloads\Dodge-Game-WinAPI\CppGame\CppGame\GameGraphic.cpp(127,58): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameProcess.cpp
+C:\Users\dvoy2\Downloads\Dodge-Game-WinAPI\CppGame\CppGame\GameProcess.cpp(216,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dvoy2\Downloads\Dodge-Game-WinAPI\CppGame\CppGame\GameProcess.cpp(217,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dvoy2\Downloads\Dodge-Game-WinAPI\CppGame\CppGame\GameProcess.cpp(377,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyInput.cpp
+  코드를 생성하고 있습니다...
+  
+CppGame.rc(140): error RC2135: file not found: C:\Users\W10\Documents\Visual Studio 2015\Projects\CppGame\com.X25Games.UFO.bmp
+  
+  
+CppGame.rc(142): error RC2135: file not found: C:\Users\W10\Documents\Visual Studio 2015\Projects\CppGame\com.X25Games.origin.bmp
+  
+  
+CppGame.rc(144): error RC2135: file not found: c:\users\w10\documents\visual studio 2015\projects\cppgame\bitmap4.bmp
+  
+  
+CppGame.rc(146): error RC2135: file not found: c:\users\w10\documents\visual studio 2015\projects\cppgame\bitmap5.bmp
+  
