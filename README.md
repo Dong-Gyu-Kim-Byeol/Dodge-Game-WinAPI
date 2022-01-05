@@ -1,6 +1,6 @@
 # Dodge-Game-WinAPI   
    
-2019년 6월에 만든 닷지 게임의 모작입니다.
+2019년 6월에 만든 닷지 게임의 모작입니다.   
    
 1. 클래스(함수) 설명   
 class GameGraphic   
