@@ -6,8 +6,8 @@
 class GameGraphic   
 {   
 private:   
-    HBITMAP hBitmapBackBuffer, hBitmapBackground, hBitmapPlayer, hBitmapOtherPlayer, hBitmapBullet;   
-    HDC hdc;   
+	HBITMAP hBitmapBackBuffer, hBitmapBackground, hBitmapPlayer, hBitmapOtherPlayer, hBitmapBullet;   
+	HDC hdc;   
     HDC backBufferDC, backgroundDC, playerDC, otherPlayerDC, bulletDC;   
     HWND hWnd;   
     HINSTANCE hInst;   
